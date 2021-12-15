@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Andrew Godbout👋
+
+How to reach me: [📫](https://www.islandscholar.ca/people/agodbout)
+
 
 <!--
 **andrewgodbout/andrewgodbout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
